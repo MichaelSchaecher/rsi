@@ -1,2 +1,6 @@
-# rsi
-Take a snapshot image of Raspberry Pi's sd-card creating a backup.
+<p align="center">
+    <img src="image/rsi.svg">
+    <br>
+        <strong>Backup the system running you Raspberry Pi.</strong>
+    </br>
+</p>
